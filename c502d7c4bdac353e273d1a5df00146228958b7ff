@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_eee68aaf",
+        "filename": "python-networking-cisco.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1002548
+      },
+      "writtenOn": "2015-07-21T13:22:10Z",
+      "side": 1,
+      "message": "This should probably match the other specs and be set to \n%{pypi_name}-%{version}.tar.gz",
+      "revId": "c502d7c4bdac353e273d1a5df00146228958b7ff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
