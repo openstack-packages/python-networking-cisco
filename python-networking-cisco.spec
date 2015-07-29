@@ -65,7 +65,7 @@ mkdir -p %{buildroot}/%{_sysconfdir}/neutron/conf.d/neutron-cisco-cfg-agent
 %{python2_sitelib}/%{srcname}
 %{python2_sitelib}/%{srcname}-%{version}-py%{python2_version}.egg-info
 %config(noreplace) %attr(0640, root, neutron) %{_sysconfdir}/neutron/*.ini
-%{_bindir}/neutron-cisco-cfg-agent
+%{_bindir}/*
 %{_unitdir}/neutron-cisco-cfg-agent.service
 
 
