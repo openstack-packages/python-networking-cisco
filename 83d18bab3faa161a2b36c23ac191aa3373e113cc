@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-at: Sun, 18 Oct 2015 13:52:59 +0200
+Reviewed-on: https://review.gerrithub.io/249657
+Project: openstack-packages/python-networking-cisco
+Branch: refs/heads/rpm-master
