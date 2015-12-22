@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa7fdbe_122c4a4a",
+        "filename": "python-networking-cisco.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-12-22T15:51:48Z",
+      "side": 1,
+      "message": "There is a typo (I guess it should not be neutron.egg-info), but in any case this should not be needed, according to https://fedoraproject.org/wiki/Packaging:Python_Eggs#Providing_Egg_Metadata_Using_Setuptools",
+      "revId": "b4ecf01e39fe5fe8d7a6cd9a9883f03b2a50f79a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
