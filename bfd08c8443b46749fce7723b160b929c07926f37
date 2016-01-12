@@ -1,0 +1,8 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+1: Javier Peña <jpena@redhat.com>
+Code-Review+2: Haïkel Guémar <haikel.guemar@gmail.com>
+Submitted-by: Haïkel Guémar <haikel.guemar@gmail.com>
+Submitted-at: Tue, 12 Jan 2016 12:57:59 +0100
+Reviewed-on: https://review.gerrithub.io/255982
+Project: openstack-packages/python-networking-cisco
+Branch: refs/heads/rpm-master
