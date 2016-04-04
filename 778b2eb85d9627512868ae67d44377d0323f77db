@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_6781a18f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-04-04T21:09:18Z",
+      "side": 1,
+      "message": "This is Merge commit, actual change causing this Fail-To-Build-From-Source is\nhttp://git.openstack.org/cgit/openstack/networking-cisco/commit/?id\u003d721aa7f2bebd4167a95b2c655704deead7bfc1f4\nwhich added two new binaries.",
+      "revId": "778b2eb85d9627512868ae67d44377d0323f77db",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
