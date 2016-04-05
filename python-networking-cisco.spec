@@ -94,6 +94,8 @@ mkdir -p %{buildroot}/%{_sysconfdir}/neutron/conf.d/neutron-cisco-cfg-agent
 %{_bindir}/fabric-enabler-agent
 %{_bindir}/fabric-enabler-cli
 %{_bindir}/fabric-enabler-server
+%{_bindir}/neutron-dhcp-relay
+%{_bindir}/neutron-dns-relay
 %{_unitdir}/neutron-cisco-cfg-agent.service
 %{_unitdir}/neutron-cisco-apic-host-agent.service
 %{_unitdir}/neutron-cisco-apic-service-agent.service
